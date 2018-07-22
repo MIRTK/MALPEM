@@ -1,3 +1,5 @@
+**Work in progress, use original package of Christian Ledig in the meantime.** https://github.com/ledigchr/MALPEM
+
 Introduction
 ============
 
